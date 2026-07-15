@@ -1,5 +1,5 @@
 ---
-name: External Agent
+name: External Agent 2
 description: Testing external agents
 ---
 
